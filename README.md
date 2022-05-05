@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+비개발자 코딩세계에 오다
 
 <!--
 **yoojinme/yoojinme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
